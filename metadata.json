@@ -1,0 +1,6 @@
+{
+  "name": "Catch the Fruit",
+  "description": "Permainan arcade 2D bertema kebun buah yang ceria. Tangkap buah-buahan dan Golden Strawberry, hindari bom, dan taklukkan 3 fase tantangan dengan target skor 100, 200, hingga 300 poin!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
